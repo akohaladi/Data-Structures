@@ -3,7 +3,7 @@
  *
  * Author: Rosemary A. Akoh
  *
- * Compile: g++ -std=c++11 pa3.cpp -o TSP
+ * Compile: g++ -std=c++11 tsp.cpp -o TSP
  *
  * Usage: ./TSP <allcities.txt> <visitedcities.txt>
 ***************************************************************/
