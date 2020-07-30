@@ -288,12 +288,3 @@ prog4/html/
 *.obj
 *.ps1
 
-/Anthony/Anthony.sln
-/Anthony/Anthony.vcxproj
-/Grace/Grace.vcxproj
-/Grace/Grace.vcxproj.filters
-/Grace/grace.cpp
-/Grace/Grace.sln
-/Anthony/Anthony.vcxproj.filters
-/Anthony/anthony.cpp
-/p1021/p1021.cpp
